@@ -1,4 +1,4 @@
-export interface RecentEvent{
+export interface RecentEvents{
     id:number,
     title:string,
     description:string,
